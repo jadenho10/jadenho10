@@ -10,3 +10,6 @@
 ## My Skills 
 ### Frontend:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,mui)](https://skillicons.dev)
+
+### Backend: 
+[![My Skills](https://skillicons.dev/icons?i=python,express,java,springboot,supabase,aws)](https://skillicons.dev)
