@@ -12,4 +12,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,mui)](https://skillicons.dev)
 
 ### Backend: 
-[![My Skills](https://skillicons.dev/icons?i=python,express,java,springboot,supabase,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,express,java,spring,supabase,aws,postgres)](https://skillicons.dev)
+
+### Other Tools:
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,git,docker)](https://skillicons.dev)
