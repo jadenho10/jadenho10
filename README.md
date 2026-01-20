@@ -9,4 +9,4 @@
 
 ## My Skills 
 ### Frontend:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,html,css&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,vue,html,css,mui)](https://skillicons.dev)
