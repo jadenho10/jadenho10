@@ -16,4 +16,4 @@
 ### Other Tools:
 [![My Skills](https://skillicons.dev/icons?i=bash,powershell,git,docker)](https://skillicons.dev)
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadenho10"/><img  height="200" src="https://github-readme-stats.vercel.app/api?username=jadenho10&show_icons=true&rank_icon=github"/>
+
