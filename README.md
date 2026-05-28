@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on the Bruin Rocket Project.
+- 🔭 I’m working for Amazon.
 - 🌱 I’m currently learning System Design!
 - 👯 I’m looking to collaborate on: any cool & interesting software projects
 - 📫 How to reach me: jaden.ho@gmail.com || https://www.linkedin.com/in/jadenho10/
